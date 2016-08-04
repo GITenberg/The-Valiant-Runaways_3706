@@ -1,0 +1,28 @@
+_repo: The-Valiant-Runaways_3706
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Horn, Gertrude Franklin
+    - Lin, Frank
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Valiant Runaways
+url: http://www.gutenberg.org/ebooks/3706
